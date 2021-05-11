@@ -1,5 +1,4 @@
 import datetime
-
 from PIL import ImageGrab             ### PIL - Pillow, which is to Capture or Grab the Screen
 import numpy as np
 import cv2
